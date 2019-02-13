@@ -1,0 +1,24 @@
+{
+  "name": "static-tiles-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rub21/static-tiles-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rub21/static-tiles-server/issues"
+  },
+  "homepage": "https://github.com/Rub21/static-tiles-server#readme",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "inert": "^5.1.2",
+    "vision": "^5.4.4"
+  }
+}
